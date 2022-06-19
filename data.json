@@ -1,0 +1,34 @@
+{
+  "books": [
+    {
+      "title": "dairy of a wimpy kid",
+      "writer": "jk",
+      "publisher": "jk ",
+      "isbn": "2839724",
+      "subject": "5",
+      "availability": "yes",
+      "numPages": "150",
+      "id": 4
+    },
+    {
+      "title": "aFAa",
+      "writer": "asd",
+      "publisher": "asdf",
+      "isbn": "asdf",
+      "subject": "2",
+      "availability": "notConfirmed",
+      "numPages": "322",
+      "id": 2
+    },
+    {
+      "title": "sfa",
+      "writer": "as",
+      "publisher": "sa",
+      "isbn": "345212",
+      "subject": "1",
+      "availability": "yes",
+      "numPages": "234",
+      "id": 5
+    }
+  ]
+}
